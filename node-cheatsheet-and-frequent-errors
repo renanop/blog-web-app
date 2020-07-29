@@ -1,0 +1,4 @@
+1 - req.params vs req.body (NAO CONFUNDIR)
+req params é usado para receber o parâmetro opcional em uma URL
+
+req.body faz parte da biblioteca do body-parser e é usado para receber um dado que vem de um form HTML.

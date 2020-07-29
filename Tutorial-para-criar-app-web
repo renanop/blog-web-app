@@ -1,0 +1,8 @@
+Criando uma aplicação web! The roadmap!
+1 - Iniciar projeto e instalar dependencias necessárias (express, ejs, sequelize, etc.)
+
+2 - Criar index.js e importar bibliotecas
+
+3 - Criar rota da home ("/") com app.get()
+
+4 - Iniciar servidor com o app.listen() -> Lembrar da questão das portas padrões para deploy.
